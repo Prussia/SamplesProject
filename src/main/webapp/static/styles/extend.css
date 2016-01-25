@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+
+/*长输入框，用于录入地址、标题等较长字符的input元素*/
+.long_input{
+	width : 80%;
+}
